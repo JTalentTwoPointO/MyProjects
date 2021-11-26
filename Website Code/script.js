@@ -12,8 +12,8 @@ const quizData = [
         a: "Central Style Sheets",
         b: "Cascading Style Sheets",
         c: "Cascading Simple Sheets",
-        d: "Cars SUVs Sailboats",
-        correct: "b",
+        d: "Cars SUVs Sailboatsss",
+        correct: "c",
     },
     {
         question: "What does HTML stand for?",
